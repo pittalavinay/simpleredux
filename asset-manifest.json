@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simpleredux/static/css/main.51641e54.css",
+    "main.js": "/simpleredux/static/js/main.1945e5b2.js",
+    "static/js/787.174f8a24.chunk.js": "/simpleredux/static/js/787.174f8a24.chunk.js",
+    "index.html": "/simpleredux/index.html",
+    "main.51641e54.css.map": "/simpleredux/static/css/main.51641e54.css.map",
+    "main.1945e5b2.js.map": "/simpleredux/static/js/main.1945e5b2.js.map",
+    "787.174f8a24.chunk.js.map": "/simpleredux/static/js/787.174f8a24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51641e54.css",
+    "static/js/main.1945e5b2.js"
+  ]
+}
